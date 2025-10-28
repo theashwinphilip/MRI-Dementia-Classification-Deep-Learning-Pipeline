@@ -78,7 +78,7 @@ Output: 4 class probabilities
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 | Metric | Value |
 |--------|-------|
